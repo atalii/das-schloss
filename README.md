@@ -15,5 +15,5 @@ have little more information on publisher, &c.)
 
 In points of confusion, I occaisonally refer to Anthea Bell's translation for
 Oxford World Classics (2009), though she appears to be working off a different
-edition of the original text, notably including three additional paragraphs at
-the end of the first chapter.
+edition of the original text, notably moving the first two paragraphs of
+chapter 2 into the end of chapter 1.
